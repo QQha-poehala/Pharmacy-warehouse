@@ -1,0 +1,8 @@
+C:\Users\Misha\source\repos\DLL_Курсовая\aboutPr\aboutPr\bin\Debug\aboutPr.dll
+C:\Users\Misha\source\repos\DLL_Курсовая\aboutPr\aboutPr\bin\Debug\aboutPr.pdb
+C:\Users\Misha\source\repos\DLL_Курсовая\aboutPr\aboutPr\obj\Debug\aboutPr.csproj.AssemblyReference.cache
+C:\Users\Misha\source\repos\DLL_Курсовая\aboutPr\aboutPr\obj\Debug\aboutPr.aboutPrForm.resources
+C:\Users\Misha\source\repos\DLL_Курсовая\aboutPr\aboutPr\obj\Debug\aboutPr.csproj.GenerateResource.cache
+C:\Users\Misha\source\repos\DLL_Курсовая\aboutPr\aboutPr\obj\Debug\aboutPr.csproj.CoreCompileInputs.cache
+C:\Users\Misha\source\repos\DLL_Курсовая\aboutPr\aboutPr\obj\Debug\aboutPr.dll
+C:\Users\Misha\source\repos\DLL_Курсовая\aboutPr\aboutPr\obj\Debug\aboutPr.pdb
