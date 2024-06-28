@@ -1,0 +1,14 @@
+C:\Users\Misha\source\repos\DLL_Курсовая\Order\Order\bin\Debug\Apteka1.mdb
+C:\Users\Misha\source\repos\DLL_Курсовая\Order\Order\bin\Debug\Order.dll
+C:\Users\Misha\source\repos\DLL_Курсовая\Order\Order\bin\Debug\Order.pdb
+C:\Users\Misha\source\repos\DLL_Курсовая\Order\Order\bin\Debug\DataBase.dll
+C:\Users\Misha\source\repos\DLL_Курсовая\Order\Order\bin\Debug\DataBase.pdb
+C:\Users\Misha\source\repos\DLL_Курсовая\Order\Order\bin\Debug\DataBase.dll.config
+C:\Users\Misha\source\repos\DLL_Курсовая\Order\Order\obj\Debug\Order.csproj.AssemblyReference.cache
+C:\Users\Misha\source\repos\DLL_Курсовая\Order\Order\obj\Debug\Order.AddLekZak.resources
+C:\Users\Misha\source\repos\DLL_Курсовая\Order\Order\obj\Debug\Order.OrderForm.resources
+C:\Users\Misha\source\repos\DLL_Курсовая\Order\Order\obj\Debug\Order.csproj.GenerateResource.cache
+C:\Users\Misha\source\repos\DLL_Курсовая\Order\Order\obj\Debug\Order.csproj.CoreCompileInputs.cache
+C:\Users\Misha\source\repos\DLL_Курсовая\Order\Order\obj\Debug\Order.csproj.CopyComplete
+C:\Users\Misha\source\repos\DLL_Курсовая\Order\Order\obj\Debug\Order.dll
+C:\Users\Misha\source\repos\DLL_Курсовая\Order\Order\obj\Debug\Order.pdb

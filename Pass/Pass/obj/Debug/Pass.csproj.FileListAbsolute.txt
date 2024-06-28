@@ -1,0 +1,16 @@
+C:\Users\Misha\source\repos\DLL_Курсовая\Pass\Pass\bin\Debug\Apteka1.mdb
+C:\Users\Misha\source\repos\DLL_Курсовая\Pass\Pass\bin\Debug\Pass.dll
+C:\Users\Misha\source\repos\DLL_Курсовая\Pass\Pass\bin\Debug\Pass.pdb
+C:\Users\Misha\source\repos\DLL_Курсовая\Pass\Pass\bin\Debug\DataBase.dll
+C:\Users\Misha\source\repos\DLL_Курсовая\Pass\Pass\bin\Debug\Md5.dll
+C:\Users\Misha\source\repos\DLL_Курсовая\Pass\Pass\bin\Debug\DataBase.pdb
+C:\Users\Misha\source\repos\DLL_Курсовая\Pass\Pass\bin\Debug\DataBase.dll.config
+C:\Users\Misha\source\repos\DLL_Курсовая\Pass\Pass\bin\Debug\Md5.pdb
+C:\Users\Misha\source\repos\DLL_Курсовая\Pass\Pass\obj\Debug\Pass.csproj.AssemblyReference.cache
+C:\Users\Misha\source\repos\DLL_Курсовая\Pass\Pass\obj\Debug\Pass.PassForm.resources
+C:\Users\Misha\source\repos\DLL_Курсовая\Pass\Pass\obj\Debug\Pass.Properties.Resources.resources
+C:\Users\Misha\source\repos\DLL_Курсовая\Pass\Pass\obj\Debug\Pass.csproj.GenerateResource.cache
+C:\Users\Misha\source\repos\DLL_Курсовая\Pass\Pass\obj\Debug\Pass.csproj.CoreCompileInputs.cache
+C:\Users\Misha\source\repos\DLL_Курсовая\Pass\Pass\obj\Debug\Pass.csproj.CopyComplete
+C:\Users\Misha\source\repos\DLL_Курсовая\Pass\Pass\obj\Debug\Pass.dll
+C:\Users\Misha\source\repos\DLL_Курсовая\Pass\Pass\obj\Debug\Pass.pdb
