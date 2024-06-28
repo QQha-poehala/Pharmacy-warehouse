@@ -1,0 +1,13 @@
+C:\Users\Misha\source\repos\DLL_Курсовая\Invoices\Invoices\bin\Debug\Apteka1.mdb
+C:\Users\Misha\source\repos\DLL_Курсовая\Invoices\Invoices\bin\Debug\Invoices.dll
+C:\Users\Misha\source\repos\DLL_Курсовая\Invoices\Invoices\bin\Debug\Invoices.pdb
+C:\Users\Misha\source\repos\DLL_Курсовая\Invoices\Invoices\bin\Debug\DataBase.dll
+C:\Users\Misha\source\repos\DLL_Курсовая\Invoices\Invoices\bin\Debug\DataBase.pdb
+C:\Users\Misha\source\repos\DLL_Курсовая\Invoices\Invoices\bin\Debug\DataBase.dll.config
+C:\Users\Misha\source\repos\DLL_Курсовая\Invoices\Invoices\obj\Debug\Invoices.csproj.AssemblyReference.cache
+C:\Users\Misha\source\repos\DLL_Курсовая\Invoices\Invoices\obj\Debug\Invoices.InvoicesForm.resources
+C:\Users\Misha\source\repos\DLL_Курсовая\Invoices\Invoices\obj\Debug\Invoices.csproj.GenerateResource.cache
+C:\Users\Misha\source\repos\DLL_Курсовая\Invoices\Invoices\obj\Debug\Invoices.csproj.CoreCompileInputs.cache
+C:\Users\Misha\source\repos\DLL_Курсовая\Invoices\Invoices\obj\Debug\Invoices.csproj.CopyComplete
+C:\Users\Misha\source\repos\DLL_Курсовая\Invoices\Invoices\obj\Debug\Invoices.dll
+C:\Users\Misha\source\repos\DLL_Курсовая\Invoices\Invoices\obj\Debug\Invoices.pdb

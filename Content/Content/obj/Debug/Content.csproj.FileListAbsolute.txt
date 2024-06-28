@@ -1,0 +1,8 @@
+C:\Users\Misha\source\repos\DLL_Курсовая\Content\Content\bin\Debug\Content.dll
+C:\Users\Misha\source\repos\DLL_Курсовая\Content\Content\bin\Debug\Content.pdb
+C:\Users\Misha\source\repos\DLL_Курсовая\Content\Content\obj\Debug\Content.csproj.AssemblyReference.cache
+C:\Users\Misha\source\repos\DLL_Курсовая\Content\Content\obj\Debug\Content.ContenForm.resources
+C:\Users\Misha\source\repos\DLL_Курсовая\Content\Content\obj\Debug\Content.csproj.GenerateResource.cache
+C:\Users\Misha\source\repos\DLL_Курсовая\Content\Content\obj\Debug\Content.csproj.CoreCompileInputs.cache
+C:\Users\Misha\source\repos\DLL_Курсовая\Content\Content\obj\Debug\Content.dll
+C:\Users\Misha\source\repos\DLL_Курсовая\Content\Content\obj\Debug\Content.pdb
