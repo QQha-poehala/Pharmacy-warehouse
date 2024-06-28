@@ -1,0 +1,15 @@
+C:\Users\Misha\source\repos\DLL_Курсовая\Waybill\Waybill\bin\Debug\Apteka1.mdb
+C:\Users\Misha\source\repos\DLL_Курсовая\Waybill\Waybill\bin\Debug\Waybill.dll
+C:\Users\Misha\source\repos\DLL_Курсовая\Waybill\Waybill\bin\Debug\Waybill.pdb
+C:\Users\Misha\source\repos\DLL_Курсовая\Waybill\Waybill\bin\Debug\DataBase.dll
+C:\Users\Misha\source\repos\DLL_Курсовая\Waybill\Waybill\bin\Debug\DataBase.pdb
+C:\Users\Misha\source\repos\DLL_Курсовая\Waybill\Waybill\bin\Debug\DataBase.dll.config
+C:\Users\Misha\source\repos\DLL_Курсовая\Waybill\Waybill\obj\Debug\Waybill.csproj.AssemblyReference.cache
+C:\Users\Misha\source\repos\DLL_Курсовая\Waybill\Waybill\obj\Debug\Waybill.AddLekNak.resources
+C:\Users\Misha\source\repos\DLL_Курсовая\Waybill\Waybill\obj\Debug\Waybill.NakladForm.resources
+C:\Users\Misha\source\repos\DLL_Курсовая\Waybill\Waybill\obj\Debug\Waybill.WaybillForm.resources
+C:\Users\Misha\source\repos\DLL_Курсовая\Waybill\Waybill\obj\Debug\Waybill.csproj.GenerateResource.cache
+C:\Users\Misha\source\repos\DLL_Курсовая\Waybill\Waybill\obj\Debug\Waybill.csproj.CoreCompileInputs.cache
+C:\Users\Misha\source\repos\DLL_Курсовая\Waybill\Waybill\obj\Debug\Waybill.csproj.CopyComplete
+C:\Users\Misha\source\repos\DLL_Курсовая\Waybill\Waybill\obj\Debug\Waybill.dll
+C:\Users\Misha\source\repos\DLL_Курсовая\Waybill\Waybill\obj\Debug\Waybill.pdb

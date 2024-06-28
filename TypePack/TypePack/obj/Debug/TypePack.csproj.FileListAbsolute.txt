@@ -1,0 +1,14 @@
+C:\Users\Misha\source\repos\DLL_Курсовая\TypePack\TypePack\bin\Debug\Apteka1.mdb
+C:\Users\Misha\source\repos\DLL_Курсовая\TypePack\TypePack\bin\Debug\TypePack.dll
+C:\Users\Misha\source\repos\DLL_Курсовая\TypePack\TypePack\bin\Debug\TypePack.pdb
+C:\Users\Misha\source\repos\DLL_Курсовая\TypePack\TypePack\bin\Debug\DataBase.dll
+C:\Users\Misha\source\repos\DLL_Курсовая\TypePack\TypePack\bin\Debug\DataBase.pdb
+C:\Users\Misha\source\repos\DLL_Курсовая\TypePack\TypePack\bin\Debug\DataBase.dll.config
+C:\Users\Misha\source\repos\DLL_Курсовая\TypePack\TypePack\obj\Debug\TypePack.csproj.AssemblyReference.cache
+C:\Users\Misha\source\repos\DLL_Курсовая\TypePack\TypePack\obj\Debug\TypePack.AddTypePack.resources
+C:\Users\Misha\source\repos\DLL_Курсовая\TypePack\TypePack\obj\Debug\TypePack.TypePackForm.resources
+C:\Users\Misha\source\repos\DLL_Курсовая\TypePack\TypePack\obj\Debug\TypePack.csproj.GenerateResource.cache
+C:\Users\Misha\source\repos\DLL_Курсовая\TypePack\TypePack\obj\Debug\TypePack.csproj.CoreCompileInputs.cache
+C:\Users\Misha\source\repos\DLL_Курсовая\TypePack\TypePack\obj\Debug\TypePack.csproj.CopyComplete
+C:\Users\Misha\source\repos\DLL_Курсовая\TypePack\TypePack\obj\Debug\TypePack.dll
+C:\Users\Misha\source\repos\DLL_Курсовая\TypePack\TypePack\obj\Debug\TypePack.pdb
