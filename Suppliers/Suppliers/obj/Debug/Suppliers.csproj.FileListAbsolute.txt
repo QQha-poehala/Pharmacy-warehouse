@@ -1,0 +1,14 @@
+C:\Users\Misha\source\repos\DLL_Курсовая\Suppliers\Suppliers\bin\Debug\Apteka1.mdb
+C:\Users\Misha\source\repos\DLL_Курсовая\Suppliers\Suppliers\bin\Debug\Suppliers.dll
+C:\Users\Misha\source\repos\DLL_Курсовая\Suppliers\Suppliers\bin\Debug\Suppliers.pdb
+C:\Users\Misha\source\repos\DLL_Курсовая\Suppliers\Suppliers\bin\Debug\DataBase.dll
+C:\Users\Misha\source\repos\DLL_Курсовая\Suppliers\Suppliers\bin\Debug\DataBase.pdb
+C:\Users\Misha\source\repos\DLL_Курсовая\Suppliers\Suppliers\bin\Debug\DataBase.dll.config
+C:\Users\Misha\source\repos\DLL_Курсовая\Suppliers\Suppliers\obj\Debug\Suppliers.csproj.AssemblyReference.cache
+C:\Users\Misha\source\repos\DLL_Курсовая\Suppliers\Suppliers\obj\Debug\Suppliers.AddSuppliers.resources
+C:\Users\Misha\source\repos\DLL_Курсовая\Suppliers\Suppliers\obj\Debug\Suppliers.SuppliersForm.resources
+C:\Users\Misha\source\repos\DLL_Курсовая\Suppliers\Suppliers\obj\Debug\Suppliers.csproj.GenerateResource.cache
+C:\Users\Misha\source\repos\DLL_Курсовая\Suppliers\Suppliers\obj\Debug\Suppliers.csproj.CoreCompileInputs.cache
+C:\Users\Misha\source\repos\DLL_Курсовая\Suppliers\Suppliers\obj\Debug\Suppliers.csproj.CopyComplete
+C:\Users\Misha\source\repos\DLL_Курсовая\Suppliers\Suppliers\obj\Debug\Suppliers.dll
+C:\Users\Misha\source\repos\DLL_Курсовая\Suppliers\Suppliers\obj\Debug\Suppliers.pdb

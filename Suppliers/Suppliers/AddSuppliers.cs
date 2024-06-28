@@ -1,0 +1,113 @@
+﻿using database;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Data.OleDb;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Suppliers
+{
+    public partial class AddSuppliers : Form
+    {
+        DataB database = new DataB();
+        public AddSuppliers()
+        {
+            InitializeComponent();
+            StartPosition = FormStartPosition.CenterScreen;
+
+            database.openConnection();
+            // Поиск Улицы из бд.
+            var qwery1 = $"select * from Улица";
+            var command = new OleDbCommand(qwery1, database.getConnection());
+            OleDbDataReader reader = command.ExecuteReader();
+            while (reader.Read())
+            {
+                comboBox2.Items.Add(reader["Наименование"].ToString());
+            }
+            reader.Close();
+            // Поиск Банка из бд.
+            var qwery2 = $"select * from Банк";
+            var command2 = new OleDbCommand(qwery2, database.getConnection());
+            OleDbDataReader reader2 = command2.ExecuteReader();
+            while (reader2.Read())
+            {
+                comboBox1.Items.Add(reader2["Наименование"].ToString());
+            }
+            reader2.Close();
+            database.closeConnection();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            database.openConnection();
+
+            var name = textBox1.Text;
+            int banks_id = 0;
+            var rasch = textBox2.Text;
+            int streets_id = 0;
+            int house;
+            int stroen;
+            int kvar;
+            var tel = textBox6.Text;
+            var inn = textBox7.Text;
+
+            // Поиск Улица_ID.
+            var qwery1 = $"select ID from Улица where Наименование = '{comboBox2.Text}'";
+            var command = new OleDbCommand(qwery1, database.getConnection());
+            OleDbDataReader reader = command.ExecuteReader();
+            while (reader.Read())
+            {
+                streets_id = reader.GetInt32(0);
+            }
+            reader.Close();
+            // Поиск Банк_ID.
+            var qwery2 = $"select ID from Банк where Наименование = '{comboBox1.Text}'";
+            var command2 = new OleDbCommand(qwery2, database.getConnection());
+            OleDbDataReader reader2 = command2.ExecuteReader();
+            while (reader2.Read())
+            {
+                banks_id = reader2.GetInt32(0);
+            }
+            reader2.Close();
+            // Проверка ввода.
+            bool isNumber1 = int.TryParse(textBox3.Text, out house);
+            bool isNumber2 = int.TryParse(textBox4.Text, out stroen);
+            bool isNumber3 = int.TryParse(textBox5.Text, out kvar);
+
+            string addQwery;
+            // Проверка на не пустоту строк и запрос на добавление новой строки в бд.
+            if (isNumber1 == true && isNumber3 == true && rasch.Length <=20 && tel.Length <= 12 && inn.Length <= 20 && house > 0 && kvar > 0 && name != "" && streets_id > 0 && banks_id > 0)
+            {
+                if (isNumber2 == false)
+                {
+                    addQwery = $"insert into Поставщик (Название, Банк_ID, РасчётныйСчёт, Улица_ID, Дом, Строение, Квартира, Телефон, ИНН) values ('{name}', {banks_id},'{rasch}',{streets_id}, {house}, NULL, '{kvar}', '{tel}', '{inn}'  )";
+                }
+                else
+                {
+                    addQwery = $"insert into Поставщик (Название, Банк_ID, РасчётныйСчёт, Улица_ID, Дом, Строение, Квартира,Телефон, ИНН) values ('{name}', {banks_id}, '{rasch}', {streets_id}, {house}, {stroen}, '{kvar}', '{tel}', '{inn}' )";
+                }
+                var command4 = new OleDbCommand(addQwery, database.getConnection());
+                command4.ExecuteNonQuery();
+
+                MessageBox.Show("Запись успешно создана!", "Создание записи", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                textBox1.Text = "";
+                textBox2.Text = "";
+                textBox3.Text = "";
+                textBox4.Text = "";
+                textBox5.Text = "";
+                textBox6.Text = "";
+                textBox7.Text = "";
+            }
+            else
+            {
+                MessageBox.Show("Неправильный ввод", "Создание записи", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+            database.closeConnection();
+        }
+    }
+}
